@@ -1,0 +1,29 @@
+[03-Mar-2023 01:13:01 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/vinikuma/public_html/instajobs/wallet/assets/php/database.php on line 2
+[03-Mar-2023 01:16:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 158
+[03-Mar-2023 01:16:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 167
+[03-Mar-2023 01:16:25 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 177
+[03-Mar-2023 01:16:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/vinikuma/public_html/instajobs/wallet/assets/pages/home.php on line 19
+[03-Mar-2023 04:33:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 158
+[03-Mar-2023 04:33:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 167
+[03-Mar-2023 04:33:58 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 177
+[03-Mar-2023 04:33:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/vinikuma/public_html/instajobs/wallet/assets/pages/home.php on line 19
+[03-Mar-2023 04:34:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 158
+[03-Mar-2023 04:34:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 167
+[03-Mar-2023 04:34:11 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 177
+[03-Mar-2023 04:34:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/vinikuma/public_html/instajobs/wallet/assets/pages/home.php on line 19
+[06-Mar-2023 04:08:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 158
+[06-Mar-2023 04:08:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 167
+[06-Mar-2023 04:08:35 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 177
+[06-Mar-2023 04:08:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/vinikuma/public_html/instajobs/wallet/assets/pages/home.php on line 19
+[06-Mar-2023 04:13:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 158
+[06-Mar-2023 04:13:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 167
+[06-Mar-2023 04:13:53 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallet/assets/php/functions.php on line 177
+[06-Mar-2023 04:13:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/vinikuma/public_html/instajobs/wallet/assets/pages/home.php on line 19
+[08-Mar-2023 23:52:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallett/assets/php/functions.php on line 158
+[08-Mar-2023 23:52:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/vinikuma/public_html/instajobs/wallett/assets/php/functions.php on line 167
+[08-Mar-2023 23:52:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getTransHistory() in /home2/vinikuma/public_html/instajobs/wallett/assets/pages/home.php:4
+Stack trace:
+#0 /home2/vinikuma/public_html/instajobs/wallett/assets/php/functions.php(8): include()
+#1 /home2/vinikuma/public_html/instajobs/wallett/index.php(7): viewPage('home')
+#2 {main}
+  thrown in /home2/vinikuma/public_html/instajobs/wallett/assets/pages/home.php on line 4
